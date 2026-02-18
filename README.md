@@ -3,52 +3,22 @@ jay@github:~$ neofetch
 ```
 
 ```
-         _nnnn_                  jay@github
-        dGGGGMMb                ──────────────────────────
-       @p~qp~~qMb              OS:      Georgia Tech / Electrical Engineering
-       M|@||@) M|              ROLE:    Software Engineer @ Stealth
-       @,----.JM|              RESEARCH: Molecular Dynamics of PFAS Adsorption
-      JS^\__/  qKL                       @ The Wriedt MOF Lab
-     dZP        qKRb            FIELDS:  Artificial Intelligence
-    dZP          qKKb                    Chemical Physics
-   fZP            SMMb                   Robotics
-   HZM            MMMM          UPTIME:  Since '07
+         _nnnn_                jay@github
+        dGGGGMMb               ──────────────────────────
+       @p~qp~~qMb              OS:       Georgia Tech / Electrical Engineering
+       M|@||@) M|              ROLE:     Software Engineer @ Stealth
+       @,----.JM|              RESEARCH: PFAS Adsorption @ The Wriedt MOF Lab
+      JS^\__/  qKL             FIELDS:   AI Alignment · Chemical Physics · Robotics           
+     dZP        qKRb           LANGS:    Python · C++ · Java
+    dZP          qKKb          TOOLS:    Git · VS Code · RASPA2 · QE · Inventor · Arduino
+   fZP            SMMb         HOBBIES:  Creative Writing · Guitar · J Math Rock
+   HZM            MMMM         
    FqM            MMMM
  __| ".        |\dS"qML
  |    `.       | `' \Zq
 _)      \.___.,|     .'
 \____   )MMMMMP|   .'
      `-'       `--'
-```
-
----
-
-### `$ cat /proc/languages`
-
-```
-Python     ████████████████████░░░░░  80%
-C++        ███████████████░░░░░░░░░░  60%
-Java       ██████████░░░░░░░░░░░░░░░  40%
-```
-
-### `$ ls ~/toolbox/`
-
-```
-drwxr-xr-x  git/
-drwxr-xr-x  vscode/
-drwxr-xr-x  raspa2/
-drwxr-xr-x  quantum-espresso/
-drwxr-xr-x  inventor/
-drwxr-xr-x  arduino/
-```
-
-### `$ cat ~/interests.conf`
-
-```ini
-[hobbies]
-creative_writing = enabled
-guitar           = enabled
-j_math_rock      = enabled    # toe, LITE, tricot 🎸
 ```
 
 ---
