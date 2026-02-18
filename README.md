@@ -1,3 +1,5 @@
+## Hey, I'm Jay 👋 
+Thanks for checking out my profile! I'm a former AI Intern @ Nuntius (YC S2), and currently interested in the tooling and applications of AI agents. 
 ```
 jay@github:~$ neofetch
 
@@ -6,7 +8,7 @@ jay@github:~$ neofetch
        @p~qp~~qMb              Education: Georgia Tech / Electrical Engineering
        M|@||@) M|              Role:      Software Engineer @ Stealth
        @,----.JM|              Research:  PFAS Adsorption @ The Wriedt MOF Lab
-      JS^\__/  qKL             Fields:    AI Alignment · Chemical Physics · Robotics           
+      JS^\__/  qKL             Fields:    AI Agents · Chemical Physics · Robotics           
      dZP        qKRb           Langs:     Python · C++ · Java
     dZP          qKKb          Tools:     Git · VS Code · RASPA2 · QE · Inventor · Arduino
    fZP            SMMb         Hobbies:   Creative Writing · Guitar · Running
@@ -19,4 +21,10 @@ _)      \.___.,|     .'
      `-'       `--'
 ```
 
-
+### Projects I'm Proud Of
+- [[Transition State Prep](https://github.com/jaysahni/double_ended_ts_prep)]
+  - Library that blends Cartesian error and intermolecular forces to place molecules
+  - Python, Numpy, OpenFF, RDKit, RXNMapper
+- [[Autonomous Robotic Programming](https://github.com/jaysahni/AutonomousMicroBot)]
+  - Project navigates a physical maze with time and mapping using custom time control, PID, and sensor filtering
+  - C++, Arduino
