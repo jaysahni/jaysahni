@@ -2,7 +2,9 @@
 jay@github:~$ neofetch
 ```
 
-```
+```bash
+jay@github:~$ neofetch
+
          _nnnn_                jay@github
         dGGGGMMb               ──────────────────────────
        @p~qp~~qMb              OS:       Georgia Tech / Electrical Engineering
@@ -21,10 +23,4 @@ _)      \.___.,|     .'
      `-'       `--'
 ```
 
----
 
-```
-jay@github:~$ echo "Thanks for stopping by!"
-Thanks for stopping by!
-jay@github:~$ █
-```
