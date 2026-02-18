@@ -20,9 +20,9 @@ _)      \.___.,|     .'
 ```
 
 ### Projects I'm Proud Of
-- [[Transition State Prep](https://github.com/jaysahni/double_ended_ts_prep)]
+- [Transition State Prep(https://github.com/jaysahni/double_ended_ts_prep)]
   - Library that blends Cartesian error and intermolecular forces to place molecules
   - Python, Numpy, OpenFF, RDKit, RXNMapper
-- [[Autonomous Robotic Programming](https://github.com/jaysahni/AutonomousMicroBot)]
+- [Autonomous Robotic Programming(https://github.com/jaysahni/AutonomousMicroBot)]
   - Project navigates a physical maze with time and mapping using custom time control, PID, and sensor filtering
   - C++, Arduino
