@@ -1,6 +1,6 @@
 ## Hey, I'm Jay 
 
-```
+```python
 jaysahni@desktop:~$ nano README.md
 
 Education: Electrical Engineering at Georgia Tech
