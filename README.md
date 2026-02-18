@@ -1,5 +1,7 @@
-## user@jaysahni:~$ screenfetch
+## Hey, I'm Jay 💯
 
+user@jaysahni:~$ screenfetch
+`
                           ./+o+-       user@jaysahni
                   yyyyy- -yyyyyy+      Education: Electrical Engineering at Georgia Tech
                ://+//////-yyyyyyo      Fields: Artificial Intelligence, Chemical Physics, Robotics 
@@ -17,4 +19,4 @@
            .o:'.syhhhhhhh/.oo++o'
                /osyyyyyyo++ooo+++/
                    ''''' +oo+++o\:
-                          'oo++.
+                          'oo++.`
