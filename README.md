@@ -11,9 +11,7 @@ jay@github:~$ neofetch
       JS^\__/  qKL             Fields:    AI Agents · Chemical Physics · Robotics           
      dZP        qKRb           Langs:     Python · C++ · Java
     dZP          qKKb          Tools:     Git · VS Code · RASPA2 · QE · Inventor · Arduino
-   fZP            SMMb         Hobbies:   Creative Writing · Guitar · Running
-   HZM            MMMM         
-   FqM            MMMM
+   fZP            SMMb         Hobbies:   Creative Writing · Guitar · Running  
  __| ".        |\dS"qML
  |    `.       | `' \Zq
 _)      \.___.,|     .'
