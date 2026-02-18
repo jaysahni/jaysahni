@@ -1,9 +1,7 @@
-```
+```sh
 jay@github:~$ neofetch
 ```
-
-```bash
-jay@github:~$ neofetch
+```
 
          _nnnn_                jay@github
         dGGGGMMb               ──────────────────────────
