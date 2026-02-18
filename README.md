@@ -26,3 +26,7 @@ _)      \.___.,|     .'
 - [Autonomous Robotic Programming](https://github.com/jaysahni/AutonomousMicroBot)
   - Project navigates a physical maze with time and mapping using custom time control, PID, and sensor filtering
   - C++, Arduino
+- OttoGrade
+  - NLP and CV-based grading platform for teachers at the US Air Force Academy
+  - Lead back-end developer, designed CV pipeline and NLP algorithms for grading
+  - Python, Flask, SymPy, NumPy
