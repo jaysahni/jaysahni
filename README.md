@@ -6,7 +6,7 @@ jay@github:~$ neofetch
          _nnnn_                jay@github
         dGGGGMMb               ──────────────────────────
        @p~qp~~qMb              Education: Georgia Tech / Electrical Engineering
-       M|@||@) M|              Role:      Software Engineer @ Stealth
+       |(@)|(@) |              Role:      Software Engineer @ Stealth
        @,----.JM|              Research:  PFAS Adsorption @ The Wriedt MOF Lab
       JS^\__/  qKL             Fields:    AI Agents · Chemical Physics · Robotics           
      dZP        qKRb           Langs:     Python · C++ · Java
