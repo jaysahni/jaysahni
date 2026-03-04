@@ -1,5 +1,5 @@
 ## Hey, I'm Jay 👋 
-Thanks for checking out my profile! I'm a former AI Intern @ Nuntius (YC S25), and currently interested in the applications of AI agents. 
+Thanks for checking out my profile! I'm a former AI Intern @ Nuntius (YC S25), and currently interested in the applications of hardware and artificial intelligence.
 ```
 jay@github:~$ neofetch
 
