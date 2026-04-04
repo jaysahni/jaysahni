@@ -1,5 +1,5 @@
 ## Hey, I'm Jay 👋 
-Thanks for checking out my profile! I'm a former AI Intern @ Nuntius (YC S25), and currently interested in the applications of intelligence in solving unsolved problems. 
+Thanks for checking out my profile! I'm a former AI Intern @ Nuntius (YC S25), and currently interested in the applications of intelligence and engineering. 
 ```
 jay@github:~$ neofetch
 
