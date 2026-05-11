@@ -5,7 +5,7 @@ jay@github:~$ neofetch
 
          _nnnn_                jay@github
         dGGGGMMb               ──────────────────────────
-       ap~qp~~qMb              Education: Incoming @ Harvard - Applied Math & Engineering Sciences
+       ap~qp~~qMb              Education: Incoming @ Harvard - Bioengineering and Computer Science
        d(@):(@) |              Role:      Software Engineer @ Stealth
        a,____-.JM              Research:  PFAS Adsorption @ The Wriedt MOF Lab
       JS^\__/  qKL             Fields:    AI Agents · Chemical Physics · Machine Learning           
