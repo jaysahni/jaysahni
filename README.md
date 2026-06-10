@@ -6,12 +6,12 @@ jay@github:~$ neofetch
          _nnnn_                jay@github
         dGGGGMMb               ──────────────────────────
        ap~qp~~qMb              Education: Incoming @ Harvard - Bioengineering and Computer Science
-       d(@):(@) |              Role:      Software Engineer @ Stealth
+       d(@):(@) |              Role:      <achine Learning Intern @ NovaFlow (YC S25)
        a,____-.JM              Research:  PFAS Adsorption @ The Wriedt MOF Lab
       JS^\__/  qKL             Fields:    AI Agents · Chemical Physics · Machine Learning           
      dZP        qKRb           Langs:     Python · C++ · Java · Typescript 
-    dZP          qKKb          Tools:     Git · VS Code · RASPA2 · QE · Inventor · Arduino
-   fZP            SMMb         Hobbies:   Creative Writing · Guitar · Running  
+    dZP          qKKb          Hobbies:   Creative Writing · Guitar · Running
+   fZP            SMMb          
  __| ".        |\dS"qML
  |    `.       | `' \Zq
 _)      \.___.,|     .'
