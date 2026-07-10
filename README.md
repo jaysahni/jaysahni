@@ -1,13 +1,13 @@
 ## Hey, I'm Jay 👋 
-Thanks for checking out my profile! I'm a former AI Intern @ Nuntius (YC S25), and currently interested in the applications of intelligence and engineering. 
+Right now, I'm an AI/ML Intern at Novaflow, building agent tools for drug discovery. Previously I was a SWE @ Nuntius (YC S25), where I built RL for frontier labs. 
 ```
 jay@github:~$ neofetch
 
          _nnnn_                jay@github
         dGGGGMMb               ──────────────────────────
        ap~qp~~qMb              Education: Incoming @ Harvard - Bioengineering and Computer Science
-       d(@):(@) |              Role:      <achine Learning Intern @ NovaFlow (YC S25)
-       a,____-.JM              Research:  PFAS Adsorption @ The Wriedt MOF Lab
+       d(@):(@) |              Role:      Machine Learning Intern @ NovaFlow (YC S25)
+       a,____-.JM              Research:  Prev PFAS Adsorption Researcher @ The Wriedt MOF Lab
       JS^\__/  qKL             Fields:    AI Agents · Chemical Physics · Machine Learning           
      dZP        qKRb           Langs:     Python · C++ · Java · Typescript 
     dZP          qKKb          Hobbies:   Creative Writing · Guitar · Running
