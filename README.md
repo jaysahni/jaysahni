@@ -10,7 +10,7 @@ jay@github:~$ neofetch
        a,____-.JM              Research:  Prev PFAS Adsorption Researcher @ The Wriedt MOF Lab
       JS^\__/  qKL             Fields:    AI Agents · Chemical Physics · Machine Learning           
      dZP        qKRb           Langs:     Python · C++ · Java · Typescript 
-    dZP          qKKb          Hobbies:   Creative Writing · Guitar · Running
+    dZP          qKKb          Hobbies:   Writing · Guitar · Running
    fZP            SMMb          
  __| ".        |\dS"qML
  |    `.       | `' \Zq
