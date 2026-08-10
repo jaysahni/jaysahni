@@ -5,7 +5,7 @@ jay@github:~$ neofetch
 
          _nnnn_                jay@github
         dGGGGMMb               ──────────────────────────
-       ap~qp~~qMb              Education: Incoming @ Harvard - Bioengineering and Electrical Engineering
+       ap~qp~~qMb              Education: Harvard - Bioengineering and Electrical Engineering
        d(@):(@) |              Role:      Machine Learning Intern @ NovaFlow (YC S25)
        a,____-.JM              Research:  Prev PFAS Adsorption Researcher @ The Wriedt MOF Lab
       JS^\__/  qKL             Fields:    AI Agents · Chemical Physics · Machine Learning           
